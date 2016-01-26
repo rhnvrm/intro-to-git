@@ -22,6 +22,19 @@ Markdown is a markup language created by John Gruber. It was designed to be easy
 
 ###### This is a Sixth- level heading
 
+```
+# This is a First-level heading
+
+## This is a Second-level heading
+
+### This is a Third- level heading
+
+#### This is a Fourth-level heading
+
+##### This is a Fifth-level heading
+
+###### This is a Sixth- level heading
+```
 
 
 ---
@@ -44,4 +57,47 @@ Markdown is a markup language created by John Gruber. It was designed to be easy
  
  
 ---
+
+#Lists
+
+*   Goat
++   Milk
+–  Banana
+*   Eggs
+
+```
+*   Goat
+
++   Milk
+
+–  Banana
+
+*   Eggs
+```
+
+1.   Eggs
+2.   Ham
+3.   Milk
+
+```
+1.   Eggs
+
+2.   Ham
+
+3.   Milk
+```
+---
+
+**hello, world**,  *italicized text*
+
+```
+**hello, world**,  *italicized text*
+```
+
+---
+
+github flavoured 
+
+https://help.github.com/articles/github-flavored-markdown
+
 
